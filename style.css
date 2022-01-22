@@ -1,0 +1,65 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+}
+.navbar-spacing {
+    height: 20px;
+}
+.navbar-brand{
+    text-align: justify center;
+    color:rgba(245, 185, 22, 0.89);
+    text-shadow:silver ;
+    size: 35px;
+}
+h1{
+    text-align: center;
+    color:rgba(245, 185, 22, 0.89);
+    text-decoration-color:  rgb(14, 13, 13);
+    text-decoration: double;
+    text-shadow: silver;
+    size: 40px;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    color: rgb(233, 218, 18);
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: all 0.2s ease 0s;
+    max-height: 25px;
+}
+
+
+    
+
+h2{
+    color: rgba(245, 185, 22, 0.89);
+    text-decoration: underline;
+}
+tr{
+    float: inline-start;
+    margin: 60px 25px auto;
+    text-align:center;
+    size: 30px;
+}
+td{
+    color: rgba(245, 185, 22, 0.89);
+    text-decoration: underline;
+}
+iframe{
+    
+    height: 350px;
+    width: 500px;
+ }
+form{
+    float: inline-end;
+    text-align: left;
+
+}
+a{
+    border-color:rgba(245, 185, 22, 0.89);
+
+}
+
+
